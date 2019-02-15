@@ -1,9 +1,0 @@
-Log created: 2019-02-12T19:32:44.822810000Z
-Executable: /usr/lib/virtualbox/VirtualBoxVM
-Arg[0]: /usr/lib/virtualbox/VirtualBoxVM
-Arg[1]: --comment
-Arg[2]: Deft-90b7d62a-7b9c-4238-b731-66c03b1724e6
-Arg[3]: --startvm
-Arg[4]: 8aba3f1a-ad00-4d6e-8bba-5378cf3984e7
-Arg[5]: --no-startvm-errormsgbox
-AddRef: illegal refcnt=3221225469 state=2
